@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T13:16:14.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="OWMFmcmEOKrIy0kUDZxj" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T13:18:00.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="umyHLcfDzHsiuYkYCvy-" version="13.9.9" type="github">
   <diagram id="-h-FWdnBDTUCUx3NnTI8" name="Page-1">
-    <mxGraphModel dx="782" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="994" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,9 +116,6 @@
         </mxCell>
         <mxCell id="BVEdyjHnovO0aVLDuDAA-37" value="&lt;u&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;mã nv&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="510" y="190" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BVEdyjHnovO0aVLDuDAA-38" value="&lt;u&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;mã nv&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="950" y="660" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BVEdyjHnovO0aVLDuDAA-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="BVEdyjHnovO0aVLDuDAA-40">
           <mxGeometry relative="1" as="geometry">
